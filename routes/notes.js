@@ -34,4 +34,20 @@ notes.post('/', (req, res) => {
   }
 });
 
+notes.delete('/:note_id', (req, res) => {
+    const id = req.params.note_id;
+    let note;
+
+    readAndAppend('./db/db.json')
+    
+    note.map((element, index) => {
+      if (element.note_id == id){
+        note = element
+        note.splice(index, 1)
+        return res.json(note);
+      } 
+    
+    })
+});
+
 module.exports = notes;
