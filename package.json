@@ -1,0 +1,26 @@
+{
+  "name": "sublime-note-taker",
+  "version": "1.0.0",
+  "description": "Web app note taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BT134/sublime-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BT134/sublime-note-taker/issues"
+  },
+  "author": "Brenton Turnor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
