@@ -29,21 +29,25 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 >Click on the below link to take you to the app. 
 
-
+https://vast-sea-04139.herokuapp.com/
 
 >Click 'Get Started' and you can enter your note header and text below. Click on the save button on the top right hand side to save your note. Once you have completed the note or no longer require it, you can delete the note using the red rubbish bin logo. 
 
 ## Visual Demo
 
-><img src=".\assets\images\" alt="Gif of note taker in operation">
+><img src=".\assets\images\note-taker.gif" alt="Gif of note taker in operation">
+
+https://drive.google.com/file/d/13CORQYWN5ec3XUoYLraOKfKJmqFfh3Zg/view
 
 ## Screen Shot
 
-><img src=".\assets\images\screenshot.JPG" alt="Screenshot of note taker home page">
+><img src=".\assets\images\screenshot.JPG" alt="Screenshot of note taker landing page">
+
+><img src=".\assets\images\screenshot2.JPG" alt="Screenshot of note taker home page taking a note">
 
 ## Generated Webpage
 
-> [Devlopeyed webpage with Heroku](https://arcane-escarpment-03851.herokuapp.com/) 
+> [Deployed webpage with Heroku](https://vast-sea-04139.herokuapp.com/) 
 
 ## Built With
 
